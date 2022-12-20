@@ -1,5 +1,5 @@
-# Global Trends in Mental Helath Disorder
-## Public Dataset, credits to https://data.world/amitd
+# Mental Health in Tech Industry in 2014
+## Public Dataset, credits to https://osmihelp.org/research
 
 ## Exploratory Data Analysis of the dataset. 
 Main goal: Discover the trends by answering the following questions
